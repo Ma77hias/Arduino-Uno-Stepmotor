@@ -1,4 +1,5 @@
 //by Ma77hias
+//stepmotor 28byj-48 have only 4 coils
 
 static const int Pin1 = 8; 
 static const int Pin2 = 9;
